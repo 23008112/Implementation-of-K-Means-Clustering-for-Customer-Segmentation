@@ -74,10 +74,13 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="orange",l
 ```
 
 ## Output:
+### Elbow Method
 ![image](https://github.com/user-attachments/assets/4b5b7e98-9b0d-4d96-93ba-6774e363633a)
 
+### Y Prediction
 ![image](https://github.com/user-attachments/assets/8f6822f8-f92c-429e-b892-841752b94ed2)
 
+### Customer Segmentation
 ![image](https://github.com/user-attachments/assets/d12d92ba-e0ed-4ab9-b477-335973fe8560)
 
 
