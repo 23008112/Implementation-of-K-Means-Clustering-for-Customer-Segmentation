@@ -70,6 +70,8 @@ plt.scatter(df1["Annual Income (k$)"],df1["Spending Score (1-100)"],c="black",la
 plt.scatter(df2["Annual Income (k$)"],df2["Spending Score (1-100)"],c="blue",label="cluster2")
 plt.scatter(df3["Annual Income (k$)"],df3["Spending Score (1-100)"],c="olive",label="cluster3")
 plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="orange",label="cluster4")
+plt.legend()
+plt.title("Customer Segments")
 ```
 
 ## Output:
